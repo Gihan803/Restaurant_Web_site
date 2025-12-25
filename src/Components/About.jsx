@@ -27,7 +27,6 @@ const About = () => {
             
                 <div className="absolute inset-0 bg-linear-to-br from-orange-500 to-red-600 flex items-center justify-center">
                   <div className="text-center text-white p-6">
-                    <span className="text-6xl block mb-2">🍽️</span>
                     <h3 className="text-2xl font-bold italic">Yummy Restaurant</h3>
                   </div>
                 </div>
