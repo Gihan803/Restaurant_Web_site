@@ -13,8 +13,6 @@ const About = () => {
       <div className="max-w-7xl mx-auto">
         <div className="bg-white rounded-2xl shadow-xl overflow-hidden border border-gray-100">
           <div className="grid grid-cols-1 lg:grid-cols-2">
-            
-         
             <div className="h-80 lg:h-auto relative group overflow-hidden bg-gray-200">
               {!imageError ? (
                 <img
